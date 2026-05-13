@@ -1,2 +1,10 @@
-# idrisa-first-website-
-My first website project built with HTML and CSS
+ Shuwa First Website
+
+Hello, I am Idrisa Mohammed Jibril.
+
+I am learning Full Stack Web Development.
+
+This repository contains my first web development projects using:
+- HTML
+- CSS
+- JavaScript
